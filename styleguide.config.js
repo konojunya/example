@@ -1,6 +1,7 @@
 module.exports = {
 	title: 'React Style Guide Example',
 	defaultExample: true,
+	showCode: true,
 	components: './lib/components/**/[A-Z]*.js',
 	webpackConfig: {
 		module: {
